@@ -1,0 +1,115 @@
+{
+	"ads": [{
+		"placement_reference_id": "REWARD-6732463",
+		"ad_markup": {
+			"id": "bs62ah3jd5mnho627nvg",
+			"campaign": "5ebaca3d7c94c250fa408d14|5ebae602289fa1001013ebfc|datasci--banners_bandit_explore__4.104.0-exper-banner-v3--success--meister|bs62ah3jd5mnho627nvg",
+			"app_id": "$0${\"app_id\":\"5dc44f91d117775a302589b1\",\"eventID\":\"bs62ah3jd5mnho627nvg\"}",
+			"expiry": 1595236292,
+			"tpat": {
+				"moat": {
+					"is_enabled": false,
+					"extra_vast": ""
+				},
+				"clickUrl": ["https://play.google.com/store/apps/details?id=com.vungle.games.tossacoin"],
+				"checkpoint.0": ["https://ingest.vungle.com/tpat?event_id=bs62ah3jd5mnho627nvg\u0026device_id=1fa7332f-c4d2-457b-9134-2b8d718a1bf3\u0026event_type=PERCENTAGE\u0026play_percentage=0", "https://dsp.api.vungle.com/v1/tpat?event_id=bs62ah3jd5mnho627nvg\u0026cid=5ebaca3d7c94c250fa408d14\u0026crid=5ebae602289fa1001013ebfc\u0026ifa=1fa7332f-c4d2-457b-9134-2b8d718a1bf3\u0026test=0\u0026os=android\u0026event_type=start"],
+				"checkpoint.25": ["https://ingest.vungle.com/tpat?event_id=bs62ah3jd5mnho627nvg\u0026device_id=1fa7332f-c4d2-457b-9134-2b8d718a1bf3\u0026event_type=PERCENTAGE\u0026play_percentage=0.25", "https://dsp.api.vungle.com/v1/tpat?event_id=bs62ah3jd5mnho627nvg\u0026cid=5ebaca3d7c94c250fa408d14\u0026crid=5ebae602289fa1001013ebfc\u0026ifa=1fa7332f-c4d2-457b-9134-2b8d718a1bf3\u0026test=0\u0026os=android\u0026event_type=firstQuartile"],
+				"checkpoint.50": ["https://ingest.vungle.com/tpat?event_id=bs62ah3jd5mnho627nvg\u0026device_id=1fa7332f-c4d2-457b-9134-2b8d718a1bf3\u0026event_type=PERCENTAGE\u0026play_percentage=0.5", "https://dsp.api.vungle.com/v1/tpat?event_id=bs62ah3jd5mnho627nvg\u0026cid=5ebaca3d7c94c250fa408d14\u0026crid=5ebae602289fa1001013ebfc\u0026ifa=1fa7332f-c4d2-457b-9134-2b8d718a1bf3\u0026test=0\u0026os=android\u0026event_type=midpoint"],
+				"checkpoint.75": ["https://ingest.vungle.com/tpat?event_id=bs62ah3jd5mnho627nvg\u0026device_id=1fa7332f-c4d2-457b-9134-2b8d718a1bf3\u0026event_type=PERCENTAGE\u0026play_percentage=0.75", "https://dsp.api.vungle.com/v1/tpat?event_id=bs62ah3jd5mnho627nvg\u0026cid=5ebaca3d7c94c250fa408d14\u0026crid=5ebae602289fa1001013ebfc\u0026ifa=1fa7332f-c4d2-457b-9134-2b8d718a1bf3\u0026test=0\u0026os=android\u0026event_type=thirdQuartile"],
+				"checkpoint.100": ["https://ingest.vungle.com/tpat?event_id=bs62ah3jd5mnho627nvg\u0026device_id=1fa7332f-c4d2-457b-9134-2b8d718a1bf3\u0026event_type=PERCENTAGE\u0026play_percentage=1", "https://dsp.api.vungle.com/v1/tpat?event_id=bs62ah3jd5mnho627nvg\u0026cid=5ebaca3d7c94c250fa408d14\u0026crid=5ebae602289fa1001013ebfc\u0026ifa=1fa7332f-c4d2-457b-9134-2b8d718a1bf3\u0026test=0\u0026os=android\u0026event_type=complete"],
+				"postroll.view": ["https://ingest.vungle.com/tpat?event_id=bs62ah3jd5mnho627nvg\u0026device_id=1fa7332f-c4d2-457b-9134-2b8d718a1bf3\u0026event_type=POSTROLL_VIEW", "https://dsp.api.vungle.com/v1/tpat?event_id=bs62ah3jd5mnho627nvg\u0026cid=5ebaca3d7c94c250fa408d14\u0026crid=5ebae602289fa1001013ebfc\u0026ifa=1fa7332f-c4d2-457b-9134-2b8d718a1bf3\u0026test=0\u0026os=android\u0026event_type=endcard_view"],
+				"postroll.click": ["https://ingest.vungle.com/tpat?event_id=bs62ah3jd5mnho627nvg\u0026device_id=1fa7332f-c4d2-457b-9134-2b8d718a1bf3\u0026event_type=POSTROLL_CLICK", "https://dsp.api.vungle.com/v1/tpat?event_id=bs62ah3jd5mnho627nvg\u0026cid=5ebaca3d7c94c250fa408d14\u0026crid=5ebae602289fa1001013ebfc\u0026ifa=1fa7332f-c4d2-457b-9134-2b8d718a1bf3\u0026test=0\u0026os=android\u0026event_type=endcard_click"],
+				"video.close": ["https://ingest.vungle.com/tpat?event_id=bs62ah3jd5mnho627nvg\u0026device_id=1fa7332f-c4d2-457b-9134-2b8d718a1bf3\u0026event_type=VIDEO_CLOSE", "https://dsp.api.vungle.com/v1/tpat?event_id=bs62ah3jd5mnho627nvg\u0026cid=5ebaca3d7c94c250fa408d14\u0026crid=5ebae602289fa1001013ebfc\u0026ifa=1fa7332f-c4d2-457b-9134-2b8d718a1bf3\u0026test=0\u0026os=android\u0026event_type=video_close"],
+				"video.unmute": ["https://ingest.vungle.com/tpat?event_id=bs62ah3jd5mnho627nvg\u0026device_id=1fa7332f-c4d2-457b-9134-2b8d718a1bf3\u0026event_type=UNMUTE", "https://dsp.api.vungle.com/v1/tpat?event_id=bs62ah3jd5mnho627nvg\u0026cid=5ebaca3d7c94c250fa408d14\u0026crid=5ebae602289fa1001013ebfc\u0026ifa=1fa7332f-c4d2-457b-9134-2b8d718a1bf3\u0026test=0\u0026os=android\u0026event_type=unmute"],
+				"video.mute": ["https://ingest.vungle.com/tpat?event_id=bs62ah3jd5mnho627nvg\u0026device_id=1fa7332f-c4d2-457b-9134-2b8d718a1bf3\u0026event_type=MUTE", "https://dsp.api.vungle.com/v1/tpat?event_id=bs62ah3jd5mnho627nvg\u0026cid=5ebaca3d7c94c250fa408d14\u0026crid=5ebae602289fa1001013ebfc\u0026ifa=1fa7332f-c4d2-457b-9134-2b8d718a1bf3\u0026test=0\u0026os=android\u0026event_type=mute"]
+			},
+			"delay": 0,
+			"showClose": 9999,
+			"showCloseIncentivized": 9999,
+			"countdown": 0,
+			"url": "",
+			"videoWidth": 0,
+			"videoHeight": 0,
+			"md5": "fake_md5",
+			"callToActionDest": "https://play.google.com/store/apps/details?id=com.vungle.games.tossacoin",
+			"callToActionUrl": "https://play.google.com/store/apps/details?id=com.vungle.games.tossacoin",
+			"adType": "vungle_mraid",
+			"templateURL": "https://cdn-lb.vungle.com/assets/bundle_adaptive_creative/5e85f50c757b550016ca9198/eb4bb61be7c4dc0247824c63ebbb064a.zip",
+			"templateSettings": {
+				"normal_replacements": {
+					"INCENTIVIZED_CLOSE_BUTTON_DELAY_SECONDS": "9999",
+					"PRIVACY_BODY_TEXT": "Vungle, Inc. understands the importance of privacy. Vungle operates a mobile ad network (the 'Ad Network' or the 'Services') through which Vungle displays targeted, contextual ads.",
+					"CLOSE_BUTTON_DELAY_SECONDS": "9999",
+					"CTA_BUTTON_URL": "hhttps://play.google.com/store/apps/details?id=com.vungle.games.tossacoin",
+					"INCENTIVIZED_TITLE_TEXT": "Close this ad?",
+					"INCENTIVIZED_CLOSE_TEXT": "Close",
+					"AUTO_LOCALIZE": "true",
+					"APP_NAME": "QA-SDK-AND-AD",
+					"SHOW_EC_CLOSE_BUTTON_COUNTDOWN": "false",
+					"FULL_CTA": "true",
+					"START_MUTED": "false",
+					"APP_DESCRIPTION": "Vungle Inc.",
+					"PRIVACY_CONTINUE_TEXT": "Close",
+					"ACTION_TRACKING": "false",
+					"INCENTIVIZED_CONTINUE_TEXT": "Continue",
+					"THEME": "dark",
+					"PRIVACY_CLOSE_TEXT": "Read Vungle's Privacy Policy",
+					"INCENTIVIZED_BODY_TEXT": "Are you sure you want to skip this ad? You must finish watching to claim your reward.",
+					"CTA_BUTTON_TEXT": "Download",
+					"SHOW_VIDEO_CLOSE_BUTTON_COUNTDOWN": "true",
+					"CTA_BUTTON_BACKGROUND": "#01b27a",
+					"VUNGLE_PRIVACY_URL": "https://privacy.vungle.com/"
+				},
+				"cacheable_replacements": {
+					"APP_ICON": {
+						"url": "https://cdn-cn.vungle.cn/assets/5dc44f91d117775a302589b1/65f631141e5d3b0f32a9363c9891b726.png",
+						"extension": "png"
+					},
+					"CAROUSEL_IMAGE_4": {
+						"url": "https://cdn-cn.vungle.cn/assets/5dc44f91d117775a302589b1/f16bd8237db891a17403a33a84fb25a1.png",
+						"extension": "png"
+					},
+					"APP_RATING": {
+						"url": "https://cdn-cn.vungle.cn/templates/defaults/img/4.5-stars.svg",
+						"extension": "svg"
+					},
+					"CAROUSEL_IMAGE_2": {
+						"url": "https://cdn-cn.vungle.cn/assets/5dc44f91d117775a302589b1/f16bd8237db891a17403a33a84fb25a1.png",
+						"extension": "png"
+					},
+					"MAIN_VIDEO": {
+						"url": "https://cdn-cn.vungle.cn/zen/OYOC0703-720x1280-Q2.mp4",
+						"extension": "mp4"
+					},
+					"CAROUSEL_IMAGE_1": {
+						"url": "https://cdn-cn.vungle.cn/assets/5dc44f91d117775a302589b1/f16bd8237db891a17403a33a84fb25a1.png",
+						"extension": "png"
+					},
+					"CAROUSEL_IMAGE_3": {
+						"url": "https://cdn-cn.vungle.cn/assets/5dc44f91d117775a302589b1/f16bd8237db891a17403a33a84fb25a1.png",
+						"extension": "png"
+					},
+					"CAROUSEL_IMAGE_5": {
+						"url": "https://cdn-cn.vungle.cn/assets/5dc44f91d117775a302589b1/f16bd8237db891a17403a33a84fb25a1.png",
+						"extension": "png"
+					},
+					"POWERED_BY_VUNGLE": {
+						"url": "https://cdn-cn.vungle.cn/templates/defaults/img/vungle.svg",
+						"extension": "svg"
+					}
+				}
+			},
+			"templateId": "58c2f62c34f5e387180003fa",
+			"template_type": "fullscreen",
+			"ad_market_id": "com.vungle.games.tossacoin",
+			"chk": "fake_chk",
+			"retryCount": 3,
+			"asyncThreshold": 40,
+			"ad_token": "eyJjYW1wYWlnbiI6IjVlYmFjYTNkN2M5NGMyNTBmYTQwOGQxNHw1ZWJhZTYwMjI4OWZhMTAwMTAxM2ViZmN8ZGF0YXNjaS0tYmFubmVyc19iYW5kaXRfZXhwbG9yZV9fNC4xMDQuMC1leHBlci1iYW5uZXItdjMtLXN1Y2Nlc3MtLW1laXN0ZXJ8YnM2MmFoM2pkNW1uaG82MjdudmcifQ==",
+			"video_object_id": "5ebae58c9769fd0011f63726",
+			"requires_sideloading": false,
+			"bid_token": "1|5b24dc377293d1d5f17ecc30e2b9e2a1cdef1860|bqtep663ie5huu8boijg",
+			"data_science_cache": ""
+		}
+	}]
+}
