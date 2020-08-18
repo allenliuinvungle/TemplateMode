@@ -1,11 +1,11 @@
 {
 	"ads": [{
-		"placement_reference_id": "RV_28-6379936",
+		"placement_reference_id": "TOP_RV-4362064",
 		"ad_markup": {
 			"id": "5f17f0d5aa94cd0001ccea12",
 			"campaign": "5e5da87a49d381632e9ce26f|5efa1fdd911df0761c736940|datasci--blr_20191101_platform_isolated_sgd_exploit--success--meister|5f17f0d5aa94cd0001ccea12",
 			"app_id": "$0${\"app_id\":\"59b829ec007be9940a001e10\",\"eventID\":\"5f17f0d5aa94cd0001ccea12\"}",
-			"expiry": 1596009301,
+			"expiry": 1598425285,
 			"tpat": {
 				"moat": {
 					"is_enabled": false,
@@ -59,7 +59,7 @@
 				},
 				"cacheable_replacements": {
 					"MAIN_VIDEO": {
-						"url": "https://cdn-cn.vungle.cn/zen/1920x1080_hs_video544_nb_en_29s_47mb-1280x720-Q2.mp4",
+						"url": "https://cdn-lb.vungle.com/zen/1920x1080_hs_video544_nb_en_29s_47mb-960x540-Q2.mp4",
 						"extension": "mp4"
 					},
 					"VUNGLE_PRIVACY_LOGO": {
