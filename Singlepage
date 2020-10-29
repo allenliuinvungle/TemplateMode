@@ -1,0 +1,71 @@
+{
+	"ads": [{
+		"placement_reference_id": "ALLEN_TEST_INTERSTITIAL-1893805",
+		"ad_markup": {
+			"id": "5ecf81910a5d0b0001e55db3",
+			"campaign": "5ec550e022929100163ce702|5e9b81775c08327a47bc7484|datasci--blr_20191101_view_cts_365_hdw_lat_sgd_soicf_explore04--success--meister|5ecf81910a5d0b0001e55db3",
+			"app_id": "$0${\"app_id\":\"575852dcf32bff902a000199\",\"eventID\":\"5ecf81910a5d0b0001e55db3\"}",
+			"expiry": 1603090069,
+			"tpat": {
+				"moat": {
+					"is_enabled": false,
+					"extra_vast": ""
+				},
+				"clickUrl": ["https://apps.apple.com/us/app/texas-holdem-poker-pokerist/id370339723?uo=4"],
+				"checkpoint.0": ["https://ingest.vungle.com/tpat?event_id=5ecf81910a5d0b0001e55db3\u0026device_id=bf0a141c-f3f4-4f63-9340-6261fd169eb0\u0026event_type=PERCENTAGE\u0026play_percentage=0", "https://dsp.api.vungle.com/v1/tpat?event_id=5ecf81910a5d0b0001e55db3\u0026cid=5ec550e022929100163ce702\u0026crid=5e9b81775c08327a47bc7484\u0026ifa=00000000-0000-0000-0000-000000000000\u0026test=0\u0026os=iOS\u0026event_type=start"],
+				"checkpoint.25": ["https://ingest.vungle.com/tpat?event_id=5ecf81910a5d0b0001e55db3\u0026device_id=bf0a141c-f3f4-4f63-9340-6261fd169eb0\u0026event_type=PERCENTAGE\u0026play_percentage=0.25", "https://dsp.api.vungle.com/v1/tpat?event_id=5ecf81910a5d0b0001e55db3\u0026cid=5ec550e022929100163ce702\u0026crid=5e9b81775c08327a47bc7484\u0026ifa=00000000-0000-0000-0000-000000000000\u0026test=0\u0026os=iOS\u0026event_type=firstQuartile"],
+				"checkpoint.50": ["https://ingest.vungle.com/tpat?event_id=5ecf81910a5d0b0001e55db3\u0026device_id=bf0a141c-f3f4-4f63-9340-6261fd169eb0\u0026event_type=PERCENTAGE\u0026play_percentage=0.5", "https://dsp.api.vungle.com/v1/tpat?event_id=5ecf81910a5d0b0001e55db3\u0026cid=5ec550e022929100163ce702\u0026crid=5e9b81775c08327a47bc7484\u0026ifa=00000000-0000-0000-0000-000000000000\u0026test=0\u0026os=iOS\u0026event_type=midpoint"],
+				"checkpoint.75": ["https://ingest.vungle.com/tpat?event_id=5ecf81910a5d0b0001e55db3\u0026device_id=bf0a141c-f3f4-4f63-9340-6261fd169eb0\u0026event_type=PERCENTAGE\u0026play_percentage=0.75", "https://dsp.api.vungle.com/v1/tpat?event_id=5ecf81910a5d0b0001e55db3\u0026cid=5ec550e022929100163ce702\u0026crid=5e9b81775c08327a47bc7484\u0026ifa=00000000-0000-0000-0000-000000000000\u0026test=0\u0026os=iOS\u0026event_type=thirdQuartile"],
+				"checkpoint.100": ["https://ingest.vungle.com/tpat?event_id=5ecf81910a5d0b0001e55db3\u0026device_id=bf0a141c-f3f4-4f63-9340-6261fd169eb0\u0026event_type=PERCENTAGE\u0026play_percentage=1", "https://dsp.api.vungle.com/v1/tpat?event_id=5ecf81910a5d0b0001e55db3\u0026cid=5ec550e022929100163ce702\u0026crid=5e9b81775c08327a47bc7484\u0026ifa=00000000-0000-0000-0000-000000000000\u0026test=0\u0026os=iOS\u0026event_type=complete"],
+				"postroll.view": ["https://impression.appsflyer.com/id370339723?af_siteid=582542014b7c5b6d60000035\u0026af_cost_model=CPI\u0026af_cost_value=5\u0026af_cost_currency=USD\u0026c=Vungle%20-%20Poker%20iOS%20-%20Tier%20CN_cpi%20test\u0026af_c_id=5ec550e022929100163ce702\u0026af_ad=Client_26s_Landscape_Pokerist_EN_3DRing_200418_iOS_CIEC_ASOI1_SimpleGameplayv2_PRE-AC\u0026af_ad_id=5e9b81775c08327a47bc7484\u0026pid=vungle_int\u0026af_viewthrough_lookback=1d\u0026idfa=00000000-0000-0000-0000-000000000000\u0026clickid=5ecf81910a5d0b0001e55db3\u0026vungleappid=575852dcf32bff902a000199\u0026af_ref=Vungle_5ecf81910a5d0b0001e55db3\u0026af_sub1=%E8%B4%AA%E5%90%83%E8%9B%87%E5%A4%A7%E4%BD%9C%E6%88%98\u0026campaign_id=af_vungle_int_1c9c903ed7e13f1e117fdbdbad0aecb9", "https://ingest.vungle.com/tpat?event_id=5ecf81910a5d0b0001e55db3\u0026device_id=bf0a141c-f3f4-4f63-9340-6261fd169eb0\u0026event_type=POSTROLL_VIEW", "https://dsp.api.vungle.com/v1/tpat?event_id=5ecf81910a5d0b0001e55db3\u0026cid=5ec550e022929100163ce702\u0026crid=5e9b81775c08327a47bc7484\u0026ifa=00000000-0000-0000-0000-000000000000\u0026test=0\u0026os=iOS\u0026event_type=endcard_view"],
+				"postroll.click": ["https://app.appsflyer.com/id370339723?af_siteid=582542014b7c5b6d60000035\u0026af_cost_model=CPI\u0026af_cost_value=5\u0026af_cost_currency=USD\u0026c=Vungle%20-%20Poker%20iOS%20-%20Tier%20CN_cpi%20test\u0026af_c_id=5ec550e022929100163ce702\u0026af_ad=Client_26s_Landscape_Pokerist_EN_3DRing_200418_iOS_CIEC_ASOI1_SimpleGameplayv2_PRE-AC\u0026af_ad_id=5e9b81775c08327a47bc7484\u0026pid=vungle_int\u0026af_click_lookback=7d\u0026idfa=00000000-0000-0000-0000-000000000000\u0026clickid=5ecf81910a5d0b0001e55db3\u0026vungleappid=575852dcf32bff902a000199\u0026af_ref=Vungle_5ecf81910a5d0b0001e55db3\u0026af_sub1=%E8%B4%AA%E5%90%83%E8%9B%87%E5%A4%A7%E4%BD%9C%E6%88%98\u0026campaign_id=af_vungle_int_1c9c903ed7e13f1e117fdbdbad0aecb9", "https://ingest.vungle.com/tpat?event_id=5ecf81910a5d0b0001e55db3\u0026device_id=bf0a141c-f3f4-4f63-9340-6261fd169eb0\u0026event_type=POSTROLL_CLICK", "https://dsp.api.vungle.com/v1/tpat?event_id=5ecf81910a5d0b0001e55db3\u0026cid=5ec550e022929100163ce702\u0026crid=5e9b81775c08327a47bc7484\u0026ifa=00000000-0000-0000-0000-000000000000\u0026test=0\u0026os=iOS\u0026event_type=endcard_click"],
+				"video.close": ["https://ingest.vungle.com/tpat?event_id=5ecf81910a5d0b0001e55db3\u0026device_id=bf0a141c-f3f4-4f63-9340-6261fd169eb0\u0026event_type=VIDEO_CLOSE", "https://dsp.api.vungle.com/v1/tpat?event_id=5ecf81910a5d0b0001e55db3\u0026cid=5ec550e022929100163ce702\u0026crid=5e9b81775c08327a47bc7484\u0026ifa=00000000-0000-0000-0000-000000000000\u0026test=0\u0026os=iOS\u0026event_type=video_close"],
+				"video.unmute": ["https://ingest.vungle.com/tpat?event_id=5ecf81910a5d0b0001e55db3\u0026device_id=bf0a141c-f3f4-4f63-9340-6261fd169eb0\u0026event_type=UNMUTE", "https://dsp.api.vungle.com/v1/tpat?event_id=5ecf81910a5d0b0001e55db3\u0026cid=5ec550e022929100163ce702\u0026crid=5e9b81775c08327a47bc7484\u0026ifa=00000000-0000-0000-0000-000000000000\u0026test=0\u0026os=iOS\u0026event_type=unmute"],
+				"video.mute": ["https://ingest.vungle.com/tpat?event_id=5ecf81910a5d0b0001e55db3\u0026device_id=bf0a141c-f3f4-4f63-9340-6261fd169eb0\u0026event_type=MUTE", "https://dsp.api.vungle.com/v1/tpat?event_id=5ecf81910a5d0b0001e55db3\u0026cid=5ec550e022929100163ce702\u0026crid=5e9b81775c08327a47bc7484\u0026ifa=00000000-0000-0000-0000-000000000000\u0026test=0\u0026os=iOS\u0026event_type=mute"]
+			},
+			"delay": 0,
+			"showClose": 0,
+			"showCloseIncentivized": 0,
+			"countdown": 0,
+			"url": "",
+			"videoWidth": 0,
+			"videoHeight": 0,
+			"md5": "fake_md5",
+			"callToActionDest": "market://details?id=com.lilithgame.hgame.gp.kr",
+			"callToActionUrl": "market://details?id=com.lilithgame.hgame.gp.kr",
+			"adType": "vungle_mraid",
+			"templateURL": "https://cdn-lb.vungle.com/templates/custom_creative_bundles/5f2a4e51c802020015976c3a/1601577715083/1601577715083-AC.zip",
+			"templateSettings": {
+				"normal_replacements": {
+					"CTA_BUTTON_URL": "market://details?id=com.lilithgame.hgame.gp.kr",
+					"FULL_CTA": "true",
+					"CREATIVE_VIEW_TYPE": "video_and_endcard",
+					"DOWNLOAD_BUTTON_DELAY_SECONDS": "3.5",
+					"EC_CLOSE_BUTTON_DELAY_SECONDS": "9999",
+					"INCENTIVIZED_CLOSE_TEXT": "Close",
+					"START_MUTED": "false",
+					"ENDCARD_ONLY_DURATION_SECONDS": "9999",
+					"INCENTIVIZED_BODY_TEXT": "Are you sure you want to skip this ad? You must finish watching to claim your reward.",
+					"INCENTIVIZED_TITLE_TEXT": "Close this ad?",
+					"VIDEO_SHOW_CTA": "false",
+					"CLOSE_BUTTON_DELAY_SECONDS": "9999",
+					"INCENTIVIZED_CLOSE_BUTTON_DELAY_SECONDS": "9999",
+					"INCENTIVIZED_CONTINUE_TEXT": "Continue",
+					"VIDEO_CLOSE_BUTTON_DELAY_SECONDS": "9999",
+					"VUNGLE_PRIVACY_URL": "https://privacy.vungle.com"
+				}
+
+			},
+			"templateId": "5d7936a80ed7e506be620bf0",
+			"template_type": "fullscreen",
+			"ad_market_id": "370339723",
+			"chk": "fake_chk",
+			"retryCount": 3,
+			"asyncThreshold": 40,
+			"ad_token": "eyJjYW1wYWlnbiI6IjVlYzU1MGUwMjI5MjkxMDAxNjNjZTcwMnw1ZTliODE3NzVjMDgzMjdhNDdiYzc0ODR8ZGF0YXNjaS0tYmxyXzIwMTkxMTAxX3ZpZXdfY3RzXzM2NV9oZHdfbGF0X3NnZF9zb2ljZl9leHBsb3JlMDQtLXN1Y2Nlc3MtLW1laXN0ZXJ8NWVjZjgxOTEwYTVkMGIwMDAxZTU1ZGIzIn0=",
+			"video_object_id": "5e9b79d1803ebc7a591d7f88",
+			"requires_sideloading": false,
+			"data_science_cache": ""
+		}
+	}]
+}
